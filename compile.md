@@ -12,6 +12,8 @@ In your terminal, make sure you are within the OpenCV directory and run the foll
 
 `sudo make install`
 
+configure OpenCV
+
 `sudo ldconfig`
 
 Now, you have installed OpenCV.
