@@ -8,4 +8,4 @@ What is OpenCV
 According to wikipedia OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision, developed by Intel Russia research center in Nizhny Novgorod, and now supported by Willow Garage and Itseez.[1] It is free for use under the open-source BSD license. The library is cross-platform. It focuses mainly on real-time image processing. If the library finds Intel's Integrated Performance Primitives on the system, it will use these proprietary optimized routines to accelerate itself.
 
 This guide intends to cover the instalation tutorial of OpenCV in Ubuntu 14.04 LTS or Debian.
-######[Next]
+###[Next](guide_tutorial.md)
