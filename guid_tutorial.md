@@ -42,7 +42,7 @@ Open your terminal and execute:
 `sudo apt-get install doxygen sphinx-common texlive-latex-extra`
 
 ####3. DOWNLOAD AND DECOMPRESS OPENCV
-Enter the OpenCV (official website) and download the latest version for Linux. Then decompress the downloaded file.
+Enter the OpenCV [official website](http://http://opencv.org) and download the latest version for Linux. Then decompress the downloaded file.
 
 ######[Next]
 ######[Previous]
