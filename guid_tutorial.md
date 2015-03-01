@@ -44,8 +44,8 @@ Open your terminal and execute:
 ####3. DOWNLOAD AND DECOMPRESS OPENCV
 Enter the OpenCV [official website](http://opencv.org) and download the latest version for Linux. Then decompress the downloaded file.
 
-######[Next]
-######[Previous]
+######[Next](https://github.com/Lonelygeek/OpenCV-doc/blob/master/compile.md)
+######[Previous](https://github.com/Lonelygeek/OpenCV-doc/blob/master/README.md)
 
 
 
