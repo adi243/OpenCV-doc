@@ -1,6 +1,6 @@
 ##Install OpenCV on Ubuntu or Debian
 
-This tutorial has been tested on Ubuntu 14.04 LTS with OpenCV 3.0.0 alpha. If you have successfully installed OpenCV 
+This tutorial has been tested on Ubuntu 14.04 LTS with OpenCV 3.0.0 alpha. 
 
 ####1. KEEP UBUNTU OR DEBIAN UP TO DATE
 Open your terminal and execute:
